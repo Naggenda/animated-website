@@ -294,3 +294,18 @@ span{
 .form-control.error .input-box{
     border-color: #e74c3d;
 }
+
+.form-control.success i.fa-check-circle{
+    color: #2ecc71;
+    visibility: visible;
+}
+
+.form-control.error i.fa-exclamation-circle{
+    color: #e74c3d;
+    visibility: visible;
+}
+
+.form-control.error small{
+    color: #e74c3d;
+    visibility: visible;
+}
